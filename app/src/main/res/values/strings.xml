@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movee</string>
+    <string name="action_popular">Most Popular</string>
+    <string name="action_rating">Highest Rated</string>
+
+
+    <string name="tmdb_api_key">API_KEY</string>
+</resources>
